@@ -1,5 +1,5 @@
-title: "Making Journal"
-description: "A weekly journal for DES240: Designing with Data"
+title: "303 BLOG"
+description: "A weekly blog for DES303:Design Research Practice“
 
 # GitHub Pages uses Jekyll —  this is the minimal config needed.
 remote_theme: pages-themes/minimal@v0.2.0
