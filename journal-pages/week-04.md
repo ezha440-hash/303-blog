@@ -58,7 +58,7 @@ I also want to keep in mind that my experiments don't have to be for a good caus
 
 After this, I categorized them, how closely related are they to my social issue? and is the interest areas + domains relate to the brief? (I would assume this is for choosing a stream path for capstone)
 
-![alt text](../assets/week-04/_on.jpg)
+![alt text](../assets/week-04/rel.jpg)
 
 For the non-related ideas, how could I reframe? is there a way to adapt them so it could be closer to the brief?
 
