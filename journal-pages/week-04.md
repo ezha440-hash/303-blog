@@ -136,6 +136,10 @@ However, I will adapt if things don't work as expected, If I do get stuck in one
 
 If this experiment sparks new questions, I will record them and answer them at the end if I do have an answer, and If I don't I will keep it and explore into it as a new approach. 
 
+## **What will I focus/ do next week?**
+
+I want to focus on starting my experiment next week, my goal is to create a sitmulation of a robot face on p5.js (HTML) and I want it to have some level of interaction with the user. 
+
 ## References
 
 What is Climate Justice? (n.d.). 350 AOTEAROA. 
