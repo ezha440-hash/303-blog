@@ -57,6 +57,13 @@ great now its cuter, I changed the eye distance to be closer and shrinked the ou
 
 The next thing I would like to work on would be making this interactable. (since I am simulating a face for a robot) I thought, what if the pupil followed the curser while it's on the canvas? (simulating camera tracking) 
 
+I struggled with finding references on what I needed to code in the mouse tracking. Which was bad considering I also wanted to cut down on time, again I was aiming for more quantity and I didn't want to rely on vibe coding (using AI for code). I did however, find an example of nearly exactly what I was doing on p5.js!
+
+This example/ code I found also explains how to make the face blink, which was something I didn't think about when planning out my experiment. Which allows me to think that the robot itself could also behave more sentient. 
+
+![alt text](../assets/week-05/examplev4.mp4)
+
+
 
 ## References
 
