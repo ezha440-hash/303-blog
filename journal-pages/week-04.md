@@ -50,6 +50,8 @@ Millennium Development Goals, (2019), *Millennium Development Goals* [Photograph
 
 The writers say that solar panels and electric car batteries, which are popular climate solutions, will make e-waste worse, which hurts women and children more than men. This harm, which affects health, fertility, and child development, is caused not only by the unequal distribution of risks but also by the fact that institutions don't recognise women's roles and needs at work and at home. Women who don't have proper representation don't have health insurance or safety protections. The authors say that future climate agreements need to better include and recognise women waste workers and other groups that are often left out. They frame this as a matter of the right to health and climate justice.
 
+**10/04/2026**
+
 After the brief research, I have decided on what I would like to make. ultimately I would like something that is a exhibition piece? something that provokes thinking. I would like to make it interactable too? So I choose to plan my experiments around this. 
 
 I start with generating "what if" prompts, 
@@ -96,6 +98,8 @@ so in summary, I wanted to do:
 -test out 3D printing, could I mock up a visual for my tool? 
 
 -mock up with recycable materials (milk cartons, soda cans, etc)
+
+**11/04/2026**
 
 # **Next steps**
 
