@@ -30,7 +30,7 @@ Circle (60, 170, 50); ---> Circle (x, y, d)
  
  Circle (340, 170, 50);---> the right eye 
 
- I understood this function since it's quite strightforward? I mean you just type in the shape and then adjust the position on the canvas. I also already had some base knowledge with how to code this, so it seemed easy. 
+ I understood this function since it's quite straightforward? I mean you just type in the shape and then adjust the position on the canvas. I also already had some base knowledge with how to code this, so it seemed easy. 
 
  I then looked through the reference, *(Arc,2024)*, for how to make the mouth, I initially wanted to just do a line, but it felt bland and kinda ugly, so used the arc function. 
 For the mouth I used: 
@@ -179,6 +179,8 @@ I was also thinking of letting my peers write down the answer on something physi
 - one clear next step
 - one thing simplified or stop 
 - one thing to test next
+
+It is important for me to mention what the final project/ prototype would look like. Since the begining I've wanted to make an instilation piece, so I would try my best to explain the concept. 
 
 ## References
 
