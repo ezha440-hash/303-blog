@@ -6,7 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
-09/04/2026 
+**09/04/2026** 
 
 This week, we focused on planning our first experiment and prototypes. We also reflected back on the tech demo presentation. Although I wasn't in class for this, I will still reflect on the feedback I received.
 
@@ -14,7 +14,7 @@ This week, we focused on planning our first experiment and prototypes. We also r
 
 Based on all the feedback I received, I really appreciated how all of them is offering me tips for future presentations. instead of having the presentations based on personal experiences I should more focus on the pratical parts. All comments were coming from a good place. 
 
-## Experiment Planning
+# **Experiment Planning**
 
 I started looking at my experiments with an ideation brainstorm. while keeping the Integrated Reflective Cycle in mind. I also looked at the ideation guide that was provided in Canvas. 
 
@@ -28,7 +28,7 @@ I obviously need to have some research before thinking of how I should go about 
 
 #### **What is Climate Justice?**
 
-Climate justice itself is a rather big scope, it frames global warming as an ethical and social issue, not just an environmental one, placing human rights at the center of climate action. It highlights marginalized communities and developing nations. Who contributes least to global emissions. Suffer the worst impacts and lack resources to adapt.
+Climate justice itself is a rather big scope, it frames global warming as an ethical and social issue, not just an environmental one, placing human rights at the center of climate action. (*what is Climate Justice*, 2016) It highlights marginalized communities and developing nations. Who contributes least to global emissions. Suffer the worst impacts and lack resources to adapt.
 
 One important factor of both environmental justice and climate justice is that they are grassroots movements, which stress the need for communities to be involved in organising their own actions and deciding their own futures. While climate justice often involves putting pressure on large corporations or governments, this pressure comes from the people and not from above.
 
@@ -41,9 +41,12 @@ Environmental Justice is the fair treatment and meaningful involvement of all pe
 
 E-waste refers to discarded electrical or electronic devices. This includes a vast range of items reaching their end-of-life cycle, from large household appliances to small handheld devices.
 
-Looking at the paper “Women, E-Waste, and Technological Solutions to Climate Change” by Lucy McAllister, Amanda Magee, Benjamin Hale. they raise their concerns the MDG goals
+Looking at the paper “Women, E-Waste, and Technological Solutions to Climate Change” by Lucy McAllister, Amanda Magee, Benjamin Hale. they raise their concerns the MDG goals. (*Women, E-Waste, and Technological Solutions to Climate Change*, 2014)
 
 ![Alt text](../assets/week-04/mdgs.png)
+*Figure 1*
+
+Millennium Development Goals, (2019), *Millennium Development Goals* [Photograph], Gavi. https://www.gavi.org/about-us/global-health-development/millennium-development-goals 
 
 The writers say that solar panels and electric car batteries, which are popular climate solutions, will make e-waste worse, which hurts women and children more than men. This harm, which affects health, fertility, and child development, is caused not only by the unequal distribution of risks but also by the fact that institutions don't recognise women's roles and needs at work and at home. Women who don't have proper representation don't have health insurance or safety protections. The authors say that future climate agreements need to better include and recognise women waste workers and other groups that are often left out. They frame this as a matter of the right to health and climate justice.
 
@@ -94,7 +97,7 @@ so in summary, I wanted to do:
 
 -mock up with recycable materials (milk cartons, soda cans, etc)
 
-## Next steps? 
+# **Next steps**
 
 I want to experiment with coding first, it's something I haven't done before and it excites me that I am able to learn something new out of this, even better a skill. I also hope to discover new ways to code, learn why and how an equation works, and refine it enough to use it in my future projects. So in summary, 
 
@@ -142,12 +145,15 @@ I want to focus on starting my experiment next week, my goal is to create a sitm
 
 ## References
 
-What is Climate Justice? (n.d.). 350 AOTEAROA. 
+*What is Climate Justice?* (2016, January). 350 AOTEAROA. 
+
 https://350.org.nz/what-is-climate-justice/
 
-‌Women, E-Waste, and Technological Solutions to Climate Change. (2014). Health and Human Rights Journal. https://www.hhrjournal.org/2014/07/01/women-e-waste-and-technological-solutions-to-climate-change/
+‌*Women, E-Waste, and Technological Solutions to Climate Change.* (2014). Health and Human Rights Journal. 
+https://www.hhrjournal.org/2014/07/01/women-e-waste-and-technological-solutions-to-climate-change/
 
-‌Image:
-Millennium Development Goals. (2019). Gavi.org. https://www.gavi.org/about-us/global-health-development/millennium-development-goals
+Figure 1:
+
+Millennium Development Goals, (2019), *Millennium Development Goals* [Photograph], Gavi. https://www.gavi.org/about-us/global-health-development/millennium-development-goals 
 
 ‌
