@@ -30,7 +30,28 @@ For my character/browser avatar, I wanted to draw something from one of my favou
 
 From Shime1 to 3 frame, I can tell it's the walking animation frames, I wanted my character to bob up and down while walking, (kinda like the pac man ghost thingy?) 
 
---img
+--img (original ones)
 
-I also realized that I want to finish all the frames before running the shimeji (this action may have consequences...)
+I also decided that I want to finish all the frames before running the shimeji (this action may have consequences...)
 
+Since the frames don't have names stating what action it's portraying. I decided to look online to see if there's any other guides for this.
+
+https://www.deviantart.com/akizakura16/art/Make-a-Shimeji-Part1-the-art-472702230
+
+I used this one from Deviant art, (because I was working on ipad it was easier to zoom in on the strip of gif that is there) The author has help explain what each frame make your avatar does, along with tips with how to draw. 
+
+![alt text](../assets/week-07/da1.jpg)
+
+Here's what I looked at for the walking frames,
+
+![alt text](../assets/week-07/da2.png)
+
+And this the reference of what I looked at for the next few frames I chose to work on. 
+
+I was really confused to why the frame suddenly jumped from 4 to 18 and 19?? Maybe it's an animation thing but I labeled all of my drawings just incase. 
+
+![alt text](../assets/week-07/shime4.PNG) ![alt text](../assets/week-07/shime18.PNG) ![alt text](../assets/week-07/shime19.PNG)
+
+**01/05/2026**
+
+This seems strightforward enough,
