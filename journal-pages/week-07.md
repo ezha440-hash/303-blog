@@ -30,7 +30,8 @@ For my character/browser avatar, I wanted to draw something from one of my favou
 
 From Shime1 to 3 frame, I can tell it's the walking animation frames, I wanted my character to bob up and down while walking, (kinda like the pac man ghost thingy?) 
 
---img (original ones)
+![alt text](../assets/week-07/shime002.PNG)
+![alt text](../assets/week-07/shime003.PNG)
 
 I also decided that I want to finish all the frames before running the shimeji (this action may have consequences...)
 
@@ -42,16 +43,37 @@ I used this one from Deviant art, (because I was working on ipad it was easier t
 
 ![alt text](../assets/week-07/da1.jpg)
 
+<img src="da1.jpg" width="200" height="100"></img>
+
+<img src="da1.jpg" width="300">
+
 Here's what I looked at for the walking frames,
 
 ![alt text](../assets/week-07/da2.png)
 
 And this the reference of what I looked at for the next few frames I chose to work on. 
 
-I was really confused to why the frame suddenly jumped from 4 to 18 and 19?? Maybe it's an animation thing but I labeled all of my drawings just incase. 
+I kept a mental note on the shime 4 frame, and the notes on how to make my character stand up smoother in the animation. Since my character is designed to be pretty flat. I don't think it would be much of a problem.
 
 ![alt text](../assets/week-07/shime4.PNG) ![alt text](../assets/week-07/shime18.PNG) ![alt text](../assets/week-07/shime19.PNG)
+
+--> shime 4, shime 18 and shime 19
+
+I wanted to draw how my character in the game would look if they are falling, which will then be shifted to them landing in a puddle of ink (because...squid...ink..get it...)
+
+Keeping an eye on time, It's also one of my goals to not procrustinate while doing this. Compared to the previous experiment, this is much more relaxing since I am just drawing. For each day, I would like to at least completing 10 frames, while also giving myself time to document my process. 
+
+The next frames I would be working on is the swinging frames,
+
+![alt text](../assets/week-07/shime5.PNG)
+
 
 **01/05/2026**
 
 This seems strightforward enough,
+
+## References
+
+Make a Shimeji (Part1 the art) by Akizakura16 on DeviantArt. (2014, August 4). Deviantart.com; DeviantArt. https://www.deviantart.com/akizakura16/art/Make-a-Shimeji-Part1-the-art-472702230
+
+‌
