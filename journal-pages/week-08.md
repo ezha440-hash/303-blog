@@ -19,13 +19,6 @@ in a plausible future Aotearoa.**
 
 I start answering questions just to clear my thoughts.
 
-1. What are you focusing on?
-What parts are you interested in?
-Which part of the brief feels most urgent, useful, or meaningful?
-What specific issue, audience, or situation are you choosing to
-centre?
-Why
-
  ### **Which part of the brief I want to focus on?** 
 
 Looking through the brief keywords, I wanted to look into the primary lens of "create." 
@@ -55,9 +48,56 @@ A specific issue I want to look at focuses on the favour of AI generated animati
 
 The loss of imperfect, human centered animation.
 
-Looking at this article 
+2. What is it deliberately not addressing?
+What is outside the scope of this project?
+What related issues might be important, but are too broad for
+this response?
+What are you choosing not to solve?
+Why?
 
-Reference
+### **What is it deliberately not addressing?**
+
+Currently, my project isn't asking: 
+- Why do businesses perfer cheaper AI animations? 
+
+- How much money does AI save per project? 
+
+- Should human animators receive government support?
+
+### **Why is it excluded?**
+
+It may have been because I have framed the core issue as the loss of something imperfect and human centered reasons behind that and not the business logic. And these are two very different problems considering the brief is asking me to examine the understanding of creativity and making practices, not commercial purchasing. 
+
+Including this aspect would turn the project into more like a market analysis and not something that is speculative or something that is valuable creative work. 
+
+### **What is outside the scope of this project?**
+
+Something that is outside of my scope would be: 
+
+- Building a fully functional polished game or installation? Because the goal is to have enough just to provoke with enough interactivity, not to actually release it.
+
+- Proving that human animation is objectively better. The project isn't made to defend human imperfection but should question why it is being erased/ replaced. 
+
+- Designing a tool that allows human animators to compete with AI. This also feels very business like, making a product instead of a speculative design.
+
+### **What related issues might be important, but are too broad for this response?** 
+
+- Educational part, if students grow up with AI, will they ever get the chance to learn how to animate instead of putting in a prompt?
+- The Maori and Pasifika data? I feel like that should have a different set of data just because there are more issues that leads to the loss of their art. 
+
+### **What am I choosing not to solve?**
+
+I am choosing not to help human animators to compete with AI on speed, cost or the perfection. Instead I am choosing to present imperfection as meaningful, make what is lost when the uncanny smoothness of AI becomes defult and provoke the question: Why does easy= better? 
+
+So I am not choosing to make a faster animation tool, not making AI feel more human (although its already working on that :eyeroll:) 
+
+But I am creating an interactive installation or a game that makes an interactive installation or game that pushes viewers to experience the tension between their own imperfection and a system that tries to smooth it, leaving them to think, "Was my version genuinely that bad? So much so that it's rejected by the system?" 
+
+### **Why?**
+
+
+
+## **Reference**
 
 AI Animations Are Emotionally Broken (Proof Inside). (2025). Wingmatestudio.com. https://www.wingmatestudio.com/blog-posts/emotion-in-motion-why-ai-animations-feel-different
 
