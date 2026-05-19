@@ -77,7 +77,18 @@ Looking at the notes provided for the sitting frames, I figured to use animation
 
 I also kept in mind the author's note about the animation frame order being a bit bizzare. 
 
-<iframe src= "https://youtu.be/CuCasvMzOMo" width="300" height="300"></iframe>
+![alt text](../assets/week-07/shime11.PNG)![alt text](../assets/week-07/shime15.PNG)![alt text](../assets/week-07/shime16.PNG)![alt text](../assets/week-07/shime17.PNG)![alt text](../assets/week-07/shime26.PNG)![alt text](../assets/week-07/shime27.PNG)![alt text](../assets/week-07/shime28.PNG)![alt text](../assets/week-07/shime29.PNG)
+
+Frames 11-17, and 26-29
+
+Here are all the frames, and here is a gif of what the animation looks like. 
+
+![alt text](../assets/week-07/sitting%20ani.gif)
+
+overall I didn't think it was too hard, I'm really glad I could bring another one of my interests into this project, (I did the tech demo on animation :) 
+
+Next is the climbing frames,
+
 
 ## References
 
