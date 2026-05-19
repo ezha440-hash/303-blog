@@ -43,10 +43,6 @@ I used this one from Deviant art, (because I was working on ipad it was easier t
 
 ![alt text](../assets/week-07/da1.jpg)
 
-<img src="da1.jpg" width="200" height="100"></img>
-
-<img src="da1.jpg" width="300">
-
 Here's what I looked at for the walking frames,
 
 ![alt text](../assets/week-07/da2.png)
@@ -65,12 +61,23 @@ Keeping an eye on time, It's also one of my goals to not procrustinate while doi
 
 The next frames I would be working on is the swinging frames,
 
-![alt text](../assets/week-07/shime5.PNG)
+![alt text](../assets/week-07/shime5.PNG)![alt text](../assets/week-07/shime6.PNG)![alt text](../assets/week-07/shime7.PNG)![alt text](../assets/week-07/shime8.PNG)![alt text](../assets/week-07/shime9.PNG)![alt text](../assets/week-07/shime10.PNG)
 
+-->frames shime 5-10
+
+Shime frame 5 and 6 are what the character will look like when It's picked up. And frame 7 and 8 is what It would look swinging to the left, and frames 9 and 10 is what it would look like swinging to the right. I want to keep the movements and design much simpler so I only change the expressions and use the same base to remain consistant. 
 
 **01/05/2026**
 
-This seems strightforward enough,
+I continue to work on to fill in the 46 frames. Today's goal is to do more now that I have developed a system of just using the same body and eye base. Having a stable color pallete too helps with that consistency. 
+
+![alt text](../assets/week-07/da3.png)
+
+Looking at the notes provided for the sitting frames, I figured to use animation assist on procreate to help with getting the exact effect I'm looking for, the goal is to have my character look like it's melting into a blob. 
+
+I also kept in mind the author's note about the animation frame order being a bit bizzare. 
+
+<iframe src= "https://youtu.be/CuCasvMzOMo" width="300" height="300"></iframe>
 
 ## References
 
