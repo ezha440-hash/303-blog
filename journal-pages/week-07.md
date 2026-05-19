@@ -13,7 +13,7 @@ layout: default
 
 For this experiment, I needed to do some research on how exactly to make a shimeji, despite having access to it when I was younger, I just assumed it was a bunch of drawn frames put together triggering a series of animation for movement. 
 
-I first looked at Shimeji Editor, which already gives me a template that allows me to replace each sprite with an image of your own. Make sure the dimensions of the images matches the default, which is 128 pixels in both dimensions. Once you have replaced all 46 images you can activate the character in the Shimeji Browser Extension to bring it to life and see it in action.
+I first looked at Shimeji Editor, which already gives me a template that allows me to replace each sprite with an image of your own. Make sure the dimensions of the images matches the default, which is 128 pixels in both dimensions. Once you have replaced all 46 images you can activate the character in the Shimeji Browser Extension to bring it to life and see it in action. (Shimeji Editor.2026)
 
 ![alt text](../assets/week-07/sh1.png)
 https://shimejis.xyz/editor
@@ -55,15 +55,23 @@ I kept a mental note on the shime 4 frame, and the notes on how to make my chara
 
 --> shime 4, shime 18 and shime 19
 
+![alt text](../assets/week-07/fall.gif)
+
 I wanted to draw how my character in the game would look if they are falling, which will then be shifted to them landing in a puddle of ink (because...squid...ink..get it...)
 
 Keeping an eye on time, It's also one of my goals to not procrustinate while doing this. Compared to the previous experiment, this is much more relaxing since I am just drawing. For each day, I would like to at least completing 10 frames, while also giving myself time to document my process. 
 
-The next frames I would be working on is the swinging frames,
+(I also found a gif converter so I could give myself a preview of what my drawings put together looked like)
+
+The next frames I would be working on is the swinging frames.
 
 ![alt text](../assets/week-07/shime5.PNG)![alt text](../assets/week-07/shime6.PNG)![alt text](../assets/week-07/shime7.PNG)![alt text](../assets/week-07/shime8.PNG)![alt text](../assets/week-07/shime9.PNG)![alt text](../assets/week-07/shime10.PNG)
 
 -->frames shime 5-10
+
+![alt text](../assets/week-07/drag.gif)
+
+Short gif to demo how it would potentially look while being dragged
 
 Shime frame 5 and 6 are what the character will look like when It's picked up. And frame 7 and 8 is what It would look swinging to the left, and frames 9 and 10 is what it would look like swinging to the right. I want to keep the movements and design much simpler so I only change the expressions and use the same base to remain consistant. 
 
@@ -79,18 +87,34 @@ I also kept in mind the author's note about the animation frame order being a bi
 
 ![alt text](../assets/week-07/shime11.PNG)![alt text](../assets/week-07/shime15.PNG)![alt text](../assets/week-07/shime16.PNG)![alt text](../assets/week-07/shime17.PNG)![alt text](../assets/week-07/shime26.PNG)![alt text](../assets/week-07/shime27.PNG)![alt text](../assets/week-07/shime28.PNG)![alt text](../assets/week-07/shime29.PNG)
 
-Frames 11-17, and 26-29
+--> Frames 11-17, and 26-29
 
 Here are all the frames, and here is a gif of what the animation looks like. 
 
 ![alt text](../assets/week-07/sitting%20ani.gif)
 
-overall I didn't think it was too hard, I'm really glad I could bring another one of my interests into this project, (I did the tech demo on animation :) 
+The onion skin really helped to invision how I wanted the character to "melt down" and I added little notes to fill up the blank space. Again, just trying to keep this as simple as possible considering the style I'm trying to go for.
 
-Next is the climbing frames,
+Next is the climbing frames and the crawl frames
+
+![alt text](../assets/week-07/shime12.PNG)![alt text](../assets/week-07/shime13.PNG)![alt text](../assets/week-07/shime14.PNG)
+
+--> climbing Frames 12-13
+
+I wanted to continue the motion of the avatar "bobbing up and down" using lines to indicate it moving. but also keeping in mind where it will sit once being installed into the browser. 
+
+![alt text](../assets/week-07/shime20.PNG)![alt text](../assets/week-07/shime21.PNG)
+
+--> Crawling Frames 20-21
+
+![alt text](../assets/week-07/climb.gif)
 
 
 ## References
+
+Shimeji Editor. (2026). Shimejis.xyz. https://shimejis.xyz/editor
+
+
 
 Make a Shimeji (Part1 the art) by Akizakura16 on DeviantArt. (2014, August 4). Deviantart.com; DeviantArt. https://www.deviantart.com/akizakura16/art/Make-a-Shimeji-Part1-the-art-472702230
 
