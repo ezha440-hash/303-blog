@@ -109,7 +109,47 @@ I wanted to continue the motion of the avatar "bobbing up and down" using lines 
 
 ![alt text](../assets/week-07/climb.gif)
 
+**02/05/2026**
 
+The next thing I worked on was the jumping frame, ceiling frames and also leg swinging frames. 
+
+![alt text](../assets/week-07/shime22.PNG)
+
+Jumping frame 22
+
+At this point, I wanted to cut corners because it was taking a solid chunk of my time. Taking the author's advice, I decided to just rotate the climbing frames and call it a day. 
+
+![alt text](../assets/week-07/shime23.PNG)![alt text](../assets/week-07/shime24.PNG)![alt text](../assets/week-07/shime25.PNG)
+
+Ceiling frames 23-25 
+
+Since my character don't actually have dangling legs, I consider drawing legs onto the character but it felt weird. So I ended up just making a bunch of experssions. (also at this point I feel like the avatar is a bit boring?)
+
+![alt text](../assets/week-07/shime30.PNG)![alt text](../assets/week-07/shime31.PNG)![alt text](../assets/week-07/shime32.PNG)![alt text](../assets/week-07/shime33.PNG)
+
+"leg swinging" frames 30-33
+
+I was getting real sick and tired of dragging this frame drawing thing on, so instead I just choose to make them all in one go and then test them. My original plan was to do all the frames in one day...but that certainly got pushed back since I didn't take into account how long this is actually going to take? Which surprised me considering that I have been using a set of templates as well.
+
+The next is the browser stealing frames and two sets of multiplying frames. 
+
+--> add example img here 
+
+![alt text](../assets/week-07/shime34.PNG)![alt text](../assets/week-07/shime35.PNG)![alt text](../assets/week-07/shime36.PNG)![alt text](../assets/week-07/shime37.PNG)
+
+Frames 34-37 
+
+The first set of multiplying frames focuses on my avatar pulling up a duplicate version of itself from the bottom, 
+
+![alt text](../assets/week-07/shime38.PNG)![alt text](../assets/week-07/shime39.PNG)![alt text](../assets/week-07/shime40.PNG)![alt text](../assets/week-07/shime41.PNG)
+
+Frames 38-41
+
+Lastly, the second set of multiplying frames, this one feels a bit more freaky? Because it shows my character splitting into two. (I know I could change the way it splits but I think it would be funnier if I kept it lol)
+
+![alt text](../assets/week-07/shime42.PNG)![alt text](../assets/week-07/shime43.PNG)![alt text](../assets/week-07/shime44.PNG)![alt text](../assets/week-07/shime45.PNG)![alt text](../assets/week-07/shime46.PNG)
+
+I would say, this is the frames I struggled the 
 ## References
 
 Shimeji Editor. (2026). Shimejis.xyz. https://shimejis.xyz/editor
