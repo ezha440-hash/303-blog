@@ -146,12 +146,37 @@ Because speculative design is not about proving facts or showing solution, it's 
 
 ## **What value or priority guides this framing?** 
 
+The primary value is that imperfection is evidence of being human, that the authenticity of the process over a polished outcome, that I am prioritising the trace of human made choices, the visability of effort and error and the right for creative work to be unfinished, unique without being corrected. 
+
 ### **What matters most in the way you are framing this project?**
+
+What matters the most if the perservation of creativity, the ability to be imperfect without consequence or penalty. What matters is that the question remain open, something that is not solved or answered but felt. 
+
+The process matter more than the product, how something was made of its meaning. Easy interaction would help with my arguement and the loss matters more than solution. 
 
 ### **Is your project mainly guided by accessibility, experience, sustainability, efficiency, inclusion, wellbeing, beauty, clarity, or something else?**
 
+I guess my project isn't guided by most of these qualities, partially maybe the inclusion and the experiences. But rather guided by the honesty about the loss of human made artwork, visible parts of mistakes or something imperfect and the provocation over the solution. 
+
 ### **Why?** 
 
+Since the brief asks for "Provoke reflection, invite debate, or open up alternative ways of thinking." If my project were guided by efficiency I would've pivoted to make a faster animation tool, something that would simplify the interactivity or something that would help polish the visuals. 
+
+### **What criticism might this framing receive?** 
+
+- Romanticising imperfection, people might say that the pure human craft never really existed, animators have always used tools to smooth and correct them. 
+
+- Criticisim around this project being afraid of using new tools? (the whole thing about how ai is suppose to be used so we have easy work or whatever) 
+
+
+
+### **What might someone disagree with in your approach?**
+
+### **What might be misunderstood about your starting point?**
+
+### **If someone challenged your logic, where would they push back first?**
+
+### **Why** 
 
 ## **Reference**
 
