@@ -112,6 +112,7 @@ I wanted to continue the motion of the avatar "bobbing up and down" using lines 
 **02/05/2026**
 
 The next thing I worked on was the jumping frame, ceiling frames and also leg swinging frames. 
+![alt text](../assets/week-07/da5.png)
 
 ![alt text](../assets/week-07/shime22.PNG)
 
@@ -133,7 +134,7 @@ I was getting real sick and tired of dragging this frame drawing thing on, so in
 
 The next is the browser stealing frames and two sets of multiplying frames. 
 
---> add example img here 
+![alt text](../assets/week-07/da4.png)
 
 ![alt text](../assets/week-07/shime34.PNG)![alt text](../assets/week-07/shime35.PNG)![alt text](../assets/week-07/shime36.PNG)![alt text](../assets/week-07/shime37.PNG)
 
@@ -149,13 +150,88 @@ Lastly, the second set of multiplying frames, this one feels a bit more freaky? 
 
 ![alt text](../assets/week-07/shime42.PNG)![alt text](../assets/week-07/shime43.PNG)![alt text](../assets/week-07/shime44.PNG)![alt text](../assets/week-07/shime45.PNG)![alt text](../assets/week-07/shime46.PNG)
 
-I would say, this is the frames I struggled the 
+I would say, this is the frames I struggled the most. Despite using onion skin to help with the framing, I couldn't exactly imagine what something splitting in half looks like? Using example images as a guide. I tried my best to make it seem less weird... 
+
+Finally that I'm done, I opened up Shimeji Editor and exported each image as a png, renamed them on my computer and started adding them. 
+
+At this point I had four different devices going at the same time...
+
+![alt text](../assets/week-07/web1.png)
+![alt text](../assets/week-07/web2.png)
+
+I was working from my mac, (because It has airdrop and it was faster for me to transfer them this way) dragging them in and boom it was done, it works right. 
+
+# **WRONG**
+
+how dare I assume this works the first time.
+
+The main issue here, 
+
+- Literally the first 3 frames I did (the walking ones) look so weird because I didn't take into account the eye movement (like at all)
+![alt text](../assets/week-07/fail.gif)
+
+bruh 
+
+- The browser doesn't save? it only let you test this out there is no upload button
+
+- Doesn't work accross devices (duh because I can't upload it)
+
+- I now need to find a whole different way to do this and also transfer all of my files out 
+
+Ofcourse, I have no one to blame but myself. I should've done more research on how to make this actually feasible. But this is too much for me right now. so it's tomorrow me problem. 
+
+**03/05/2026**
+
+![alt text](../assets/week-07/spongebob-tomorrow.gif)
+
+I did more research and found out actually, instead of making this a browser pet I could make this a desktop pet? 
+
+![alt text](../assets/week-07/kik.png)
+
+Basically the same thing, but in order to open and run the file I had to download java. 
+
+I also had to fix the wonky eye situation, I just redrew the frames. 
+
+![alt text](../assets/week-07/fixed.gif)
+Now it looks like this, much better.
+
+I then replaced all the images with my own, and ran it. 
+
+YIPPE IT WORKS 
+
+![alt text](../assets/week-07/werk.gif)
+
+I'm going to be so honest I am so over this experiment. But it's done and I did learn from this! 
+
+## **Reflection on my experiment- overall**
+
+Going back to the goals I have set for myself;
+
+- Have a moving character? some resemblence to a shimeji
+ 
+- at least 3 different movements for the character 
+- learn and improve the choice of tools, conduct experimenting with either, GDscript, unity or shimeiji browser extension 
+
+WELL. I definitely did the first two. Learning to improve the choice of tools..? I didn't have a choice but I would say I improved? I could've left it at just the browser and showed that for the crit in week 9, but since it was possible to make it into a desktop pet, I figured why not.  
+
+For personal goals (none technical),I would like to;
+
+- Not procrastinate.
+- arrange appropriate time slots for the work
+- still try and not use vibe coding? 
+- record with proper screenshots, notes, etc.
+
+...I still procrastinated, failed at arranging appropriate time slots but mainly because I was taking forever to do one section. There is no coding needed where I would have to use vibe coding, and the screenshots...I tried my best. 
+
+I am really happy with what this have achieved though. 
+
 ## References
 
 Shimeji Editor. (2026). Shimejis.xyz. https://shimejis.xyz/editor
 
 
-
 Make a Shimeji (Part1 the art) by Akizakura16 on DeviantArt. (2014, August 4). Deviantart.com; DeviantArt. https://www.deviantart.com/akizakura16/art/Make-a-Shimeji-Part1-the-art-472702230
+
+‌Kilkakon.com - Shimeji-ee Desktop Pet. (2025). Kilkakon.com. https://kilkakon.com/shimeji/
 
 ‌
