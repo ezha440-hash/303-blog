@@ -93,8 +93,64 @@ So I am not choosing to make a faster animation tool, not making AI feel more hu
 
 But I am creating an interactive installation or a game that makes an interactive installation or game that pushes viewers to experience the tension between their own imperfection and a system that tries to smooth it, leaving them to think, "Was my version genuinely that bad? So much so that it's rejected by the system?" 
 
+## **What assumption is this based on?**
+
 ### **Why?**
 
+Because if I solved the problem, by making a tool for the artists to compete with the AI, I would erase the lose part, and along with that the question. And by not solving it, focusing on the speculative design brief, I allow the viewer to sit and think about the issue. 
+
+### **What are you taking for granted in this framing?**
+Something I'm taking for granted in this framing is that imperfection also has value. I'm assuming that the uncanny smoothness in ai is undesirable and is worse than human made work, and the loss of the imperfect human work is a problem worth addressing. 
+
+### **What are you assuming about the users, site, audience, or problem?**
+- Assuming that the viewer can see the difference between human animation and AI animation. And if they can't tell the point of my project fails. 
+
+- Assuming that the viewers cared about the creative labour and ownership of the work. (because many people prefer the final outcome with AI, and it's fast and cheap)
+
+- Assuming that the viewer would engage with the annoying frustration or discomfort rather than just moving on. Taking into account that not everyone is willing to stay for something that frustrats them. 
+
+**Assumption about the site** 
+
+- To have a physical place/ room to present and set up in
+
+- The viewer would interact one at a time or in small groups. 
+
+- A place where it allows for reflection? and not just for a quick try out. A busy place might ruin that...
+
+**Assumption about the problem itself**
+
+- Assuming that the AI generated animations actually displace human animation and not used as a tool or a different option. 
+
+- The uncanny smoothness is a recognisable aesthetic.
+
+- The problem is not based on anything technical or economical. 
+
+
+### **What has to be true for this approach to make sense?**
+
+For my approach to make sense, 
+
+- It must make sure that viewers can tell the difference between AI and human made work, and finds that difference meaningful. 
+
+- That they are willing to engage with the activity that makes them feel something (whether if its frustration, dissapointment, etc)
+
+- That the loss is a real and ongoing issue, and that the physical thing would have to be able to demostrate the point without a long explanation. 
+
+- Focusing on the community, surrounding this to the context of being in Aotearoa. 
+
+- My skills animation, coding or robotics can produce something that is just enough fidelity (not perfect--> purposly unfinished feel?)
+
+### **Why?**
+
+Because speculative design is not about proving facts or showing solution, it's about testing assumptions through artefacts. If trying to prove every assumption first we won't actually get anywhere. The point is so that we can provide reflection, spark debates and open up alternative ways of thinking. 
+
+## **What value or priority guides this framing?** 
+
+### **What matters most in the way you are framing this project?**
+
+### **Is your project mainly guided by accessibility, experience, sustainability, efficiency, inclusion, wellbeing, beauty, clarity, or something else?**
+
+### **Why?** 
 
 
 ## **Reference**
