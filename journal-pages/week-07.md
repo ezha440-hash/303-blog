@@ -223,7 +223,7 @@ For personal goals (none technical),I would like to;
 
 ...I still procrastinated, failed at arranging appropriate time slots but mainly because I was taking forever to do one section. There is no coding needed where I would have to use vibe coding, and the screenshots...I tried my best. 
 
-I am really happy with what this have achieved though. 
+I am really happy with what this have achieved though.
 
 ## References
 

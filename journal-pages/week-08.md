@@ -168,15 +168,123 @@ Since the brief asks for "Provoke reflection, invite debate, or open up alternat
 
 - Criticisim around this project being afraid of using new tools? (the whole thing about how ai is suppose to be used so we have easy work or whatever) 
 
-
-
 ### **What might someone disagree with in your approach?**
+
+- That uncanny smoothness is a problem, smoothness is seen in anime, cartoons, smoothness is a skill
+
+- Not everyone care about how something is made but only on if it's what they consider as good 
 
 ### **What might be misunderstood about your starting point?**
 
+That I am against the whole AI thing, but I'm just questioning the aesthetic and cultral cost of using a certain part of AI. Another would be thinking that I am trying to "ban" or think that all AI animation is bad, I'm not, I'm only focusing on the uncanny smoothness and how some may prefer this over human made work, which can also be smooth, but it's just not fast or cheap enough. Some AI animation could be wonderful? But I fear this may be outside of my scope. 
+
 ### **If someone challenged your logic, where would they push back first?**
 
-### **Why** 
+I guess just asking if the loss is real or if this is just an aspect I personally don't like. Or that the viewers actually like the AI animations better...
+
+### **Why?** 
+
+Well the project is suppose to provoke something, this could be in a form of debate, if my project didn't do that I think it would be considered as a fail? 
+
+# **Planning and starting Experiment 3** 
+
+In order to move on with my experiments, I would have to look back at my reverse brief and ask myself:
+
+- What still needs to be tested?
+- What matters most in this direction?
+- What am I not trying to do
+
+Reflecting back on my previous experiment, I did that based off the feedbacks I was given from the crit. Where I should consider making something for me (as part of experimenting) which I did. 
+
+I also was offered the option to look/ pivot to a different social issue (it was e-waste and climate justice, but during crit I was suggested online saftey) Which I think is closer to what my stream brief is. 
+
+After going back my reverse briefing, **what If I made a code that forces you to draw a perfect circle?** or a code that slowly pushes the imperfect circle into a perfect circle? 
+
+## **Goals**
+For this third experiment, I would like to: 
+
+- Work/ complete this as fast as possible, considering how slow I did my last two experiments, how could I challenge myself to speed things up? 
+
+I will give myself a 10 minute time frame to see how this would turn out.
+
+- In regarding the experiment itself, if It does succeed, could the users feel the difference when the mouse/ cursor is being fixed? 
+
+- I shouldn't expect this to work? I feel like for the last 2 experiments I have been changing and fixing them so they would be viable, what if I just let this one fail? 
+
+## **How will I structure my experiment?** 
+
+s p e e d r u n  it. (jk)
+
+Ofcourse, I will be providing reasoning and images to backup my experiment. Along with the tools I will be using, 
+
+- P5.js
+- AI
+- my mouse and keyboard if you really have to count.
+
+## **Experiment 3- A code that perfects your circle drawings for you (without your permission)** 
+
+To start this, I wanted to keep in mind that I am trying to complete this as soon as possible. So what could I do? 
+
+vibe coding (gasp)
+
+I chose this to prove a point (almost) In my reverse brief I mentioned how many prefered how quick and easy and simple and cheap this way is, so let's see how great this really is...
+
+The AI I chose to use in this case is Deepseek. 
+
+I gave it a simple line of command,
+
+"can you give me s code that perfects your circle drawings for you in p5.js"
+
+![alt text](../assets/week-08/fir.png)
+
+I then copied this into p5.js, and clicked run, 
+
+![alt text](../assets/week-08/circle1.png)
+
+Um. Well this isn't what I had in mind, I was more thinking allowing me to move my curser, attempt to draw a circle but the code would fix it even though I don't need it to be fixed? 
+
+All this did was generate perfect circles...
+
+![alt text](../assets/week-08/circl.gif)
+
+I guess I should've been more specific about what I want but like...isn't that the AI's job. 
+
+I also, could just conclude the experiment right here. This took me a maximum of 5 minutes, and it failed. But I feel like this didn't really do or mean anything, so I will refine it to better fit. 
+
+I changed the promt, ”can you make it so the code, when u draw a circle with the mouse or curser, make it perfectly change to a perfect circle?“
+
+![alt text](../assets/week-08/sec.png)
+
+![alt text](../assets/week-08/fail2.gif)
+
+...perfect circle alright 
+
+Well! This is also a fail, because it just gave me the ability to draw perfect circles. There is no fixing in place, I didn't even get to draw the actual circle :(
+
+So I tried again (if this doesn't work I'm stopping 🙄)
+
+![alt text](../assets/week-08/last.png)
+
+Again, I copied it into p5.js 
+
+![alt text](../assets/week-08/lat.gif)
+
+It worked? Kind of? 
+
+It allowed me to draw onto it and it fixed it into a perfect circle afterwards. Although you do have to manually refresh the code but I would consider this not bad? 
+
+I am surprised 
+
+## **Conclusion?** 
+
+Well, 10 minutes is up, (I also used this time to document) And honestly? I am surprised that the last attempt is somewhat close to what I want? I was more aiming for something that would change *while* I am drawing the circle. 
+
+I really didn't expect this to work after the first attempt, however I do see the appeal of why people would rather use AI instead of looking up at references on how to build that code yourself and go through trial and error. Something I have noticed is the lack of "freedom" with using AI to vibe code, If I were to do this on my own I would've been able to express more, gone more in depth to make this work and actually learn something out of it. 
+
+## **What will I focus/ do next week?**
+
+Since the crit is coming up, I will be presenting my second and third experiment to my peers. Speaking on what I have learnt and why I have chose to do this, along with asking for feedback and reflect, think and plan for my fourth experiment. 
+
 
 ## **Reference**
 
