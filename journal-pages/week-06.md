@@ -107,6 +107,3 @@ Shimeji Browser Extension. (2025). Shimejis.xyz. https://shimejis.xyz/
 
 Zack on Instagram: “Waiting for Google to approve it as a Chrome extension😳😳 #compsci #programming #code #college #zack.” (2019). Instagram. https://www.instagram.com/reel/DRiAdFIjlxn/?igsh=emFlM2N6aThraXR
 
-‌
-
-‌
