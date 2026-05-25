@@ -84,3 +84,91 @@ I would like to just focus on planning the presentation for week 12. And if thin
 
 
 ## **Planning Week 12 Presentation** 
+I start the planning with answering some of the questions that are provided to me. (This is a rough version)
+
+
+**1. Connection to your DESIGN 300 Proposal
+What specific local issue from your DESIGN 300 proposal does your work address?**
+
+- How do your experiments map onto a part of that proposal?
+
+Earlier during this course, since I didn't get the brief I would say most of my experiments aren't as connected to the proposal. 
+
+"This challenge invites students to critically speculate about emerging technologies and their possible socio-
+cultural implications, exploring how our ways of connecting, collaborating, and creating might be transformed
+in a plausible future Aotearoa." 
+
+It was only when I was handed the brief I pivoted. My experiments then would be more speculative and use more tech stuff rather than hand drawings. 
+
+- What different design opportunities does your DESIGN 300 proposal reveal, and how have your DESIGN 303 experiments helped you recognise them?
+
+While in the 300 course I struggled for a long time to come up with a clear direction. If anything I think it's 303 that has helped me better define opportunities. 
+
+My proposal for 300 mainly focuses on the "loss" of human imperfections within the creative industry here in New Zealand. How Ai has taken over and that instead of hiring actual animators businesses would now choose to AI generate in order to cut cost. 
+
+Some different design opportunities I could explore better outside of CREATE would be CONNECT. I keep my scope as local as possible so it would help me in the long run, whether that's with user testing or researching.
+
+- Where did a gap, mismatch, or pivot emerge between what you planned and what actually happened?
+
+I didn't plan to pivot into doing issues on AI, or anything technical untill the briefs were out. (I was initially going to do place making, but the emerging tech brief was just much more appealing.)
+
+
+- Why did that gap or pivot happen?
+
+I guess the pivot also came from a place where I would like to learn something new by the end of my project or to better define a skill that I already have. 
+
+- How did the pivot reshape your understanding of the issue, the brief, or your possible Capstone directions?
+
+After locking into the emerging tech brief and researching, I found the current state of the world alarming, especially on the creative industries. But this way, it helped me regain the will of wanting to make something (in this case speculative) to help raise awareness, or just a personal take on this issue. 
+
+**2. Skill Development & Application
+What specific skills, tools, or techniques did you engage with through prototyping?** 
+
+- How did you record feedback?
+
+I recorded my feedbacks mainly with hand written notes, screenshots, and through peer reviews.
+
+- How has your work changed from your earliest prototype to your latest? When did you have to change your direction, why?
+
+From my earliest prototype. I was doing the experimenting from a place of just wanting to better my skill. But in the latest experiment I had a purpose/ a specific requirement I wanted to test out or visualize. 
+
+Again, I changed because of my choice in the capstone brief. 
+
+- What failed, broke, or had to be abandoned along the way?
+
+I keep wanting to include all three of my interests into my experiments, that I had to work around them and that has shut off some options for me while coming up with experiments. But I realized near the end that I shouldn't do that to restrict myself. 
+
+- What did that failure teach you?
+
+Just because I like something doesn't mean I have to have it. And would even argue that this sacrifice is much needed. 
+
+- Which specific skill do you now need to develop, and why?
+
+Since I'm planning to work more on tech stuff, I would like to better in java scripting and potentially looking into actually building something physical. 
+
+**3. Lessons Learned & Future Plans**
+
+- What key takeaways have emerged from your experiments and research?
+
+Things like better understanding the topic I want to look into. Through experiments I have learnt skills that would help me in capstone. Especially when I have never done any scripting before this. 
+
+- Which aspect of your experiments now feels like your strongest Capstone direction, and what would you refine or explore further?
+
+It's most likely the last two I have done, experiment 3 and 4. Because that's when I started relating it. I would like to refine them through embedding code into something physical, which then allows me to work on robotics. 
+
+- What are at least two other possible directions you could present in Week 1 of DESIGN 304, and how are they different from your strongest direction? Where do you see this work in the near (i.e in a month?) or distant future (i.e mid of capstone)?
+
+Two other possible directions would consider the other two focus areas in the brief, one is CONNECT and the other is COLLABORATE. 
+
+They are different because I aim to make an installation as a final for my strongest direction, I see myself making a speculative product for the other two. 
+
+Regarding where I see this work in the near future, I would think a finished or able string of code that would work on something robotic, along with a detailed speculative framing. 
+
+- How has your positionality shaped specific decisions in this work?
+In what ways will you operate differently as a designer and a researcher?
+
+As a designer and researcher, I will operate differently in two ways, from a designer point of view, I aim to use color, movement and sound to make the AI monitoring part as uncomfterble as possible. As a researcher I would focus on how the viewers would respond, how they do in the process and what after. 
+
+- What would you do differently next time, and what does this suggest you should test, build, or clarify before DESIGN 304 begins?
+
+I guess to just better plan overall, whether this is my time, aims to develop my skills and clearify my research before 304 starts. 
