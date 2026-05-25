@@ -225,6 +225,9 @@ For personal goals (none technical),I would like to;
 
 I am really happy with what this have achieved though.
 
+## **What will I focus/ do next week?**
+Since I am finished with my second experiment, I will plan and attempt a third experiment next week. 
+
 ## References
 
 Shimeji Editor. (2026). Shimejis.xyz. https://shimejis.xyz/editor
