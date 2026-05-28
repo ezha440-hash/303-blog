@@ -31,7 +31,7 @@ The sketch constantly tracks your mouse position and recent movement velocities 
 
 This is great, but I think It could do with more sensors, having multiple follow the cursor. I asked the Ai to add more monitors to the original code. 
 
-<iframe src="https://editor.p5js.org/ezha440/full/GZG27sPlF"width="400" height= "400"></iframe>
+<iframe src="https://editor.p5js.org/ezha440/full/GZG27sPlF" width="400" height= "400"></iframe>
 
 ![alt text](../assets/week-10/2.5.png)
 
