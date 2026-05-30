@@ -22,6 +22,6 @@ title: Home
 | [Week 07](journal-pages/week-07.md) | Experiment 2 + reflection |
 | [Week 08](journal-pages/week-08.md) | Experiment 3 + Crit planning |
 | [Week 09](journal-pages/week-09.md) | Crit week 2 |
-| [Week 10](journal-pages/week-10.md) |  |
+| [Week 10](journal-pages/week-10.md) | Experiment 4+ presentation planning |
 | [Week 11](journal-pages/week-11.md) | |
 | [Week 12](journal-pages/week-12.md) | Showcase |
